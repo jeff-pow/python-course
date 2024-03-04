@@ -1,0 +1,9 @@
+Reference point: (1.0, 4.5, 9.0)
+Distance to nearest point: 3.64
+Nearest point(s):
+(1.0, 1.0, 10.0)
+(-0.1, 1.1, 9.7)
+Distance to farthest point: 16.44
+Farthest point(s):
+(5.9, 7.5, -6.4)
+(5.1, 10.1, -5.9)

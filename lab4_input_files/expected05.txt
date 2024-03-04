@@ -1,0 +1,18 @@
+Enter the name of your input file: 
+
+Student Grade Data
+
+Name                     ID   Grade
+-----------------------------------
+Obi-Wan Kenobi      9494999      97
+Din Darin           8939838      89
+Leia Organa         8001099      82
+Han Solo            1902930      78
+Anakin Skywalker    1001001      55
+Jabba Hutt          0010001      46
+
+Stats for Exams Taken:
+Minimum = 46.0
+Maximum = 97.0
+Mean = 74.5
+Median = 80.0
